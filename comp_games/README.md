@@ -1,11 +1,11 @@
-Проект: анализ факторов, влияющих на успешность компьютерных игр
+Project: analysis of factors influencing the success of computer games
 
-Цель проекта: выявить факторы, определяющие успешность игр, определить потенциально успешные продукты, на основании полученных данных спланировать рекламную кампанию на следующий год
+Project goal: to identify factors that determine the success of games, identify potentially successful products, and based on the data obtained, plan an advertising campaign for the next year
 
-В рамках выполнения проекта, после необходимой предобработки и исследовательского анализа данных проведена проверка 2 статистических гипотез:
+As part of the project, after the necessary preprocessing and exploratory data analysis, 2 statistical hypotheses were tested:
 
-Гипотеза 1. Средние пользовательские рейтинги двух платформ одинаковые. Результат проверки: Не удалось отвергнуть нулевую гипотезу, есть основания утверждать, что средние пользовательские рейтинги платформ Xbox One и PC одинаковые.
+Hypothesis 1: The average user's ratings of the two platforms are the same. Test result: The null hypothesis could not be rejected; there is reason to assert that the average user's ratings for the Xbox One and PC platforms are the same.
 
-Гипотеза 2. Средние пользовательские рейтинги жанров Action (англ. «действие», экшен-игры) и Sports (англ. «спортивные соревнования») разные. Результат проверки: Нулевая гипотеза о равенстве средних рейтингов игр в жанрах Action и Sports отвергнута, есть основания утверждать, что средние пользовательские рейтинги жанров Action и Sports не равны.
+Hypothesis 2. Average user ratings for the Action and Sports genres are different. Test result: The null hypothesis about the equality of average ratings for games in the Action and Sports genres was rejected; there is reason to assert that the average user ratings for the Action and Sports genres are not equal.
 
-Даны рекомендации бизнесу: при планировании рекламной кампании интернет-магазину наиболее рационально делать акцент на платформы PS4, как самую популярную в Европе и других странах, XOne, как очень популярную в Северной Америке и 3DS как самую популярную в Японии. Среди жанров стоит уделить внимание Shooter, Action, Sports, Role-Playing.
+Recommendations are given to businesses: when planning an advertising campaign for an online store, it is most reasonable to focus on the PS4 platform, as the most popular in Europe and other countries, XOne, as very popular in North America, and 3DS as the most popular in Japan. Among the genres, it is worth paying attention to Shooter, Action, Sports, Role-Playing.
