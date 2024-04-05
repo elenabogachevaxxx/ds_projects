@@ -1,4 +1,4 @@
- The goal of the project is to train the model to identify toxic comments on a store’s website and evaluate the model using the F1 metric.
+ The goal of the project is to train the model to identify toxic comments on a store’s website and evaluate the best model using the F1 metric.
  
  During the work on the project, the texts of comments for training models were prepared - unnecessary characters and spaces were removed, tokenization and lemmatization of the text was carried out.
 
